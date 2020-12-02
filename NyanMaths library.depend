@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1605448813 source:m:\software\library\sources\ball.cpp
+	<cmath>
+	<stdexcept>
+	<Ball.h>
+
+1605448861 m:\software\library\include\ball.h
+
+1605448714 source:m:\software\library\sources\cone.cpp
+	<cmath>
+	<stdexcept>
+	<Cone.h>
+
+1605448778 m:\software\library\include\cone.h
+	<Disk.h>
+
+1605461182 source:m:\software\library\sources\cube.cpp
+	<cmath>
+	<stdexcept>
+	<Cube.h>
+
+1605449007 m:\software\library\include\cube.h
+	<Square.h>
+	<Ball.h>
+
+1605557848 source:m:\software\library\sources\cuboid.cpp
+	<cmath>
+	<stdexcept>
+	<Cuboid.h>
+
+1605557751 m:\software\library\include\cuboid.h
+	<Ball.h>
+
+1605461129 source:m:\software\library\sources\cylinder.cpp
+	<cmath>
+	<stdexcept>
+	<Cylinder.h>
+
+1605459937 m:\software\library\include\cylinder.h
+	<Disk.h>
+
+1605461527 source:m:\software\library\sources\disk.cpp
+	<cmath>
+	<stdexcept>
+	<Disk.h>
+
+1605461330 m:\software\library\include\disk.h
+
+1606254154 source:m:\software\library\sources\ellipse.cpp
+	<cmath>
+	<stdexcept>
+	<Ellipse.h>
+
+1606253637 m:\software\library\include\ellipse.h
+
+1606254182 source:m:\software\library\sources\ellipsoid.cpp
+	<cmath>
+	<stdexcept>
+	<Ellipsoid.h>
+
+1606254210 m:\software\library\include\ellipsoid.h
+
+1605471525 source:m:\software\library\sources\figuratenumber.cpp
+	<cmath>
+	<stdexcept>
+	<iostream>
+	<FigurateNumber.h>
+
+1606296928 m:\software\library\include\figuratenumber.h
+	<iostream>
+
+1605552490 source:m:\software\library\sources\maths.cpp
+	<cmath>
+	<stdexcept>
+	<Maths.h>
+
+1605552500 m:\software\library\include\maths.h
+	<complex>
+
+1605549831 source:m:\software\library\sources\polygon.cpp
+	<cmath>
+	<stdexcept>
+	<Polygon.h>
+
+1605475860 m:\software\library\include\polygon.h
+	<Disk.h>
+
+1606503139 source:m:\software\library\sources\polynomial2.cpp
+	<cmath>
+	<stdexcept>
+	<sstream>
+	<Polynomial2.h>
+
+1606503075 m:\software\library\include\polynomial2.h
+	<iostream>
+	<string>
+	<complex>
+
+1605558967 source:m:\software\library\sources\prism.cpp
+	<cmath>
+	<stdexcept>
+	<Prism.h>
+
+1605550036 m:\software\library\include\prism.h
+
+1606399104 source:m:\software\library\sources\rectangle.cpp
+	<cmath>
+	<stdexcept>
+	<Rectangle.h>
+
+1606399033 m:\software\library\include\rectangle.h
+	<string>
+	<Disk.h>
+
+1605558780 source:m:\software\library\sources\square.cpp
+	<cmath>
+	<stdexcept>
+	<Square.h>
+
+1605558509 m:\software\library\include\square.h
+	<Disk.h>
+
+1605558937 source:m:\software\library\sources\vector.cpp
+	<cmath>
+	<stdexcept>
+	<iostream>
+	<Vector.h>
+
+1606475771 m:\software\library\include\vector.h
+	<iostream>
+
+1605270476 source:m:\software\library\main.cpp
+	<NyanMaths.h>
+
+1606642407 m:\software\library\include\nyanmaths.h
+	<Disk.h>
+	<Ellipse.h>
+	<Square.h>
+	<Rectangle.h>
+	<Polygon.h>
+	<Ball.h>
+	<Ellipsoid.h>
+	<Cube.h>
+	<Cuboid.h>
+	<Prism.h>
+	<Cylinder.h>
+	<Cone.h>
+	<FigurateNumber.h>
+	<Vector2.h>
+	<Polynomial2.h>
+	<Maths.h>
+
+1606587285 m:\software\library\include\vector2.h
+	<iostream>
+
+1606587250 source:m:\software\library\sources\vector2.cpp
+	<cmath>
+	<stdexcept>
+	<iostream>
+	<Vector2.h>
+
